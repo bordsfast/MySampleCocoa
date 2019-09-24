@@ -23,13 +23,13 @@ Pod::Spec.new do |s|
   # s.screenshots     = 'www.example.com/screenshots_1', 'www.example.com/screenshots_2'
   s.license          = { :type => 'MIT', :file => 'LICENSE' }
   s.author           = { 'michaelbordonada@gmail.com' => 'michaelbordonada@gmail.com' }
-  s.source           = { :git => 'https://github.com/michaelbordonada@gmail.com/MySamplePod.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://github.com/bordsfast/MySampleCocoa.git', :tag => s.version.to_s }
   # s.social_media_url = 'https://twitter.com/<TWITTER_USERNAME>'
 
   s.ios.deployment_target = '11.3'
 
   s.source_files = 'MySamplePod/Classes/**/*'
-  
+
   # s.resource_bundles = {
   #   'MySamplePod' => ['MySamplePod/Assets/*.png']
   # }
