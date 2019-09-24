@@ -1,0 +1,22 @@
+{
+  "name": "MySamplePod",
+  "version": "0.1.0",
+  "summary": "A short description of MySamplePod.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/michaelbordonada@gmail.com/MySamplePod",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "michaelbordonada@gmail.com": "michaelbordonada@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/michaelbordonada@gmail.com/MySamplePod.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "MySamplePod/Classes/**/*"
+}
